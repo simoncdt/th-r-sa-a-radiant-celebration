@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import theresaSummer from "@/assets/theresa-summer.jpeg";
+import theresaSummer from "@/assets/th.jpeg";
 
 export const HeroSection = () => {
   return (

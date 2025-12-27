@@ -3,7 +3,7 @@ import { useRef } from "react";
 import { useInView } from "framer-motion";
 import theresaMirror from "@/assets/theresa-mirror.jpeg";
 import theresaKiss from "@/assets/theresa-kiss.jpeg";
-import theresaHoodie from "@/assets/theresa-hoodie.jpeg";
+import theresaHoodie from "@/assets/the.jpeg";
 
 const photos = [
   { src: theresaMirror, alt: "Thérésa miroir", caption: "Toujours radieuse" },
